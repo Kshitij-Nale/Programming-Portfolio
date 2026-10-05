@@ -1,5 +1,5 @@
 // Type 1
-
+ 
 import java.util.Scanner;
 class program39
 
