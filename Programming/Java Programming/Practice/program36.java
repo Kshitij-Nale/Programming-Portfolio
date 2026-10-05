@@ -4,7 +4,7 @@ class program36
 {
     public static void main(String A [])
     {
-        Scanner sobj = new Scanner(System.in);
+        Scanner sobj = new Scanner(System.in); 
 
         String sName = null;
         int iAge = 0;
