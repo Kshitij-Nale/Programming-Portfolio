@@ -3,7 +3,7 @@ import java.util.*;
 class DigitX
 {
     public boolean CheckPallindrome(int iNo)
-    {
+    { 
         int iDigit = 0;
         int iRev = 0;
         int iTemp = 0;
