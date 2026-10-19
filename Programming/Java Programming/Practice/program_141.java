@@ -7,7 +7,7 @@ class program141
         Scanner sobj = new Scanner(System.in);
         int iCnt = 0;
 
-        System.out.println("Enter the number of elements : ");
+        System.out.println("Enter the number of elements : "); 
         int iLength = sobj.nextInt();
 
         // Brr = (int *)malloc(sizeof(int) * iLength);
