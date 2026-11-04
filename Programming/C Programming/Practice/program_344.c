@@ -9,7 +9,7 @@ int main()
     UINT iMask = 0X00010100;
     UINT iNo = 0;
     UINT iResult = 0;
-
+ 
     printf("Enter number : \n");
     scanf("%d",&iNo);
 
