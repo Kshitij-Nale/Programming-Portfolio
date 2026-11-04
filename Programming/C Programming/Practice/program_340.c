@@ -4,7 +4,7 @@ typedef unsigned int UINT;
 
 UINT OffBit(UINT iNo, UINT iPos)
 {
-    UINT iMask = 0x1;
+    UINT iMask = 0x1; 
     UINT iResult = 0;
 
     if(iPos < 1 || iPos > 32)
