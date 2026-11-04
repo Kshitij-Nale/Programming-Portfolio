@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 typedef unsigned int UINT;
-
+ 
 // Poistion 12 & 23
 
 int main()
