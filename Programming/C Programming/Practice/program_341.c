@@ -6,7 +6,7 @@ int main()
 {
     UINT iMask = 0xFFFFFFFF;
 
-    printf("Before : %X\n",iMask);
+    printf("Before : %X\n",iMask); 
 
     iMask = ~iMask;
 
